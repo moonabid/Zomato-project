@@ -13,10 +13,10 @@ const Collection = () => {
       <div className="collectionText">
         <p>
           Explore curated lists of top restaurants, cafes, pubs, and bars in
-          Ahmedabad, based on trends
+          Kashmir-Srinagar, based on trends
         </p>
         <span>
-          All collection in Ahmedabad <ArrowRightIcon />
+          All collection in Kashmir <ArrowRightIcon />
         </span>
       </div>
       <div className="collectionCard">
